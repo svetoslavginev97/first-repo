@@ -9,3 +9,7 @@ name = Alexander
 size = 120
 
 email = alex_jokera@mail.bg
+
+GINEV
+
+zdrasi
